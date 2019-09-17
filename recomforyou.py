@@ -1,5 +1,5 @@
 import song
-print("----------------------------------------Welcome to Recommendation for You--------------------------------------\n")
+print("--------------------------------------Welcome to Recommendation for You------------------------------------\n")
 opt= input(print("Enter 1 if you want Movie Recommendations\nEnter 2 if you want Song Recommendations\n"))
 if opt == 1:
 	movie=int(input(print("Enter User ID:\n")))
